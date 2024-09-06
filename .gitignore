@@ -1,0 +1,10 @@
+inventory_management/.DS_Store
+scripts/build-image.sh
+scripts/delete.sh
+scripts/deploy.sh
+scripts/push-image.sh
+scripts/terraform/.terraform.lock.hcl
+scripts/terraform/terraform.tfstate.backup
+scripts/terraform/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.71.0/darwin_arm64/terraform-provider-azurerm_v3.71.0_x5
+scripts/.DS_Store
+book_catalog/.DS_Store
